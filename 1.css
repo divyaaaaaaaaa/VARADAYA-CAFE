@@ -96,3 +96,10 @@ body {
   .a:active {
     color: brown;
   }  
+.footer-icon{
+            display: flex;
+            flex-direction: row;
+            justify-content: center;     /* Center the images horizontally */
+            gap: 15px;                   /* Space between images (optional) */
+            margin-top: 20px;
+        }
